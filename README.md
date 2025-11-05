@@ -46,7 +46,10 @@ Feedback message
 
 
 
-<img width="883" height="247" alt="image" src="https://github.com/user-attachments/assets/7e19a448-0173-487b-8dae-7d37248ed28e" />
+
+
+<img width="801" height="216" alt="image" src="https://github.com/user-attachments/assets/eaf9bb89-bf16-4e3d-ab00-3508ead12deb" />
+
 
 
 
