@@ -46,11 +46,7 @@ Feedback message
 
 
 
+<img width="883" height="247" alt="image" src="https://github.com/user-attachments/assets/7e19a448-0173-487b-8dae-7d37248ed28e" />
 
-QuizApp_LinkedList/
-│
-├── quiz_app.c        # Main source code
-├── README.md         # Project documentation
-└── (optional) quiz_scores.txt   # Future extension for storing player scores
 
 
