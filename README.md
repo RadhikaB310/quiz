@@ -1,4 +1,5 @@
 Quiz App using DSA (C)
+
 📘 Project Overview
 
 The Quiz App using Data Structures is a command-line quiz application built in C language that demonstrates the use of Linked Lists for dynamic question management.
@@ -6,6 +7,7 @@ It allows users to answer multiple-choice questions, validates input, calculates
 The project showcases how fundamental Data Structures (Linked Lists) can be applied in a real-world context — dynamically adding, storing, and traversing quiz questions.
 
 ⚙️ Technologies Used
+
 Language: C
 Data Structure: Linked List
 Concepts Used:
@@ -41,4 +43,14 @@ Percentage
 Feedback message
 
 <img width="702" height="598" alt="image" src="https://github.com/user-attachments/assets/7d178bdb-dae3-477b-8535-a48157c0943c" />
+
+
+
+
+QuizApp_LinkedList/
+│
+├── quiz_app.c        # Main source code
+├── README.md         # Project documentation
+└── (optional) quiz_scores.txt   # Future extension for storing player scores
+
 
